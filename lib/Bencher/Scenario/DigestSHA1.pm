@@ -77,6 +77,6 @@ to use Digest::SHA1 over Digest::SHA (core module, more up-to-date, support more
 algorithms).
 
 
-=head1 append:SEE ALSO
+=head1 SEE ALSO
 
 See L<Bencher::Scenarios::DigestSHA> for more SHA-related benchmarks.
